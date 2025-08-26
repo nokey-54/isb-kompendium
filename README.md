@@ -1,5 +1,5 @@
 # 📘 ISB Kompedium
-- **Version** 1.0
+**Version** 1.0
 
 Dieses Repository enthält ein umfassendes **Glossar für Informationssicherheitsbeauftragte (ISB)**, angelehnt an die Inhalte der **IHK-Zertifikatsprüfung**. Es dient als **Nachschlagewerk** und **Lernhilfe** für angehende ISB oder alle die es noch werden wollen.
 
