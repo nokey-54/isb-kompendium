@@ -5,7 +5,7 @@ Dieses Repository enthält ein umfassendes **Glossar für Informationssicherheit
 Alle Begriffe sind alphabetisch von **A–Z** geordnet, mit **klaren Definitionen** und **praxisnahen Beispielen**, insbesondere im Kontext einer figtiven **öffentlichen Verwaltung**.
 Dieses Repository befindet sich im Aufbau und wird zukünftig angepasst und erweitert.
 
-**Version** 1.0
+**Version** 1.1
 
 ---
 
@@ -39,8 +39,8 @@ Dieses Repository befindet sich im Aufbau und wird zukünftig angepasst und erwe
 ---
 # A
 
-- **Access Control (Zugriffskontrolle)** – Verfahren zur Regelung, wer auf welche Systeme und Daten zugreifen darf. _Beispiel:_ Bürgerportal nur für eigene Daten.
-- **Advanced Persistent Threat (APT)** – Langfristig angelegter, verdeckter Angriff durch hochprofessionelle Angreifergruppen, häufig staatlich unterstützt. _Beispiel:_ Dauerhafter Angriff auf Bauakten-Datenbank.
+- **Access Control (Zugriffskontrolle)** – Verfahren zur Regelung, wer auf welche Systeme und Daten zugreifen darf. _Bsp._ Zugriffskontrolle für Fachsoftware oder EDV-Daten. (Achtung: Zugriffskontrolle != Zutrittskontrolle)
+- **Advanced Persistent Threat (APT)** – Langfristig angelegter, verdeckter Angriff durch hochprofessionelle Angreifergruppen, häufig staatlich unterstützt. _Bsp._ Dauerhafter Angriff auf Bauakten-Datenbank bis zum erfolgreichen Einfall ins System.
 - **Application Security (AppSec)** – Maßnahmen zur Absicherung von Software in allen Phasen des Entwicklungszyklus. _Beispiel:_ Sicherheitsüberprüfung der Bauamt-App vor Freigabe.
 - **Asset Management** – Systematische Erfassung, Bewertung und Pflege aller Werte (Assets). _Beispiel:_ Inventarliste aller Rathaus-Server inkl. Sicherheitsbewertung.
 - **Audit Trail (Prüfpfad)** – Lückenlose Nachvollziehbarkeit von Aktionen in IT-Systemen. _Beispiel:_ Protokollierung jeder Akteneinsicht im Melderegister.
