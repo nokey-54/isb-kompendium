@@ -35,8 +35,6 @@ Alle Begriffe sind alphabetisch von **A–Z** geordnet, mit **klaren Definitione
 ---
 # A
 
-=
-
 - **Access Control (Zugriffskontrolle)** – Verfahren zur Regelung, wer auf welche Systeme und Daten zugreifen darf. _Beispiel:_ Bürgerportal nur für eigene Daten.
 - **Advanced Persistent Threat (APT)** – Langfristig angelegter, verdeckter Angriff durch hochprofessionelle Angreifergruppen, häufig staatlich unterstützt. _Beispiel:_ Dauerhafter Angriff auf Bauakten-Datenbank.
 - **Application Security (AppSec)** – Maßnahmen zur Absicherung von Software in allen Phasen des Entwicklungszyklus. _Beispiel:_ Sicherheitsüberprüfung der Bauamt-App vor Freigabe.
